@@ -1,0 +1,31 @@
+#container {
+	background-color: magenta;
+	width: 960px;
+	margin-top: 40px;
+	margin-left: auto;
+	margin-right: auto;
+	padding: 50px 10px;
+	text-align: center;
+}
+#container img {
+	width: 960px;
+	margin-bottom: 40px;
+}
+h1 {
+	font-size: 36px;
+	margin-bottom: 20px;
+}
+
+p {
+	font-size: 25px;
+	margin-bottom: 15px;
+
+}
+#container a {
+	color: white;
+	background-color: gold;
+
+}
+#container a:hover {
+	background-color: grey;
+}
